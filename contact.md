@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Contato
+permalink: /contato/
 ---
 
-# form
+> Aqui vai formulário para contato
