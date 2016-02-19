@@ -13,9 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Conhecimento e experiência utilizando framework CakePHP, além de temas para Wordpress.
   Utilizo Ubuntu, SublimeText, Firefox, MySQL ou Postgres, Gimp, Inkscape, Github e Bitbucket, entre outros softwares e sites para trabalhar.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://maiconpinto.com.br" # the base hostname & protocol for your site
+twitter_username: maiconpinto
+github_username:  maiconpinto
 
 # Build settings
 markdown: kramdown
