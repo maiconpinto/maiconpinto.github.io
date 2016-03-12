@@ -1,13 +1,55 @@
 ---
-layout: page
+layout: single-wo-header
 title: Contato
 permalink: /contato/
 ---
-
-<form action="https://getsimpleform.com/messages?form_api_token=741f55310d37622a57103f16d74e76c0" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
-  <!-- all your input fields here.... -->
-  <input type='text' name='test' />
-  <input type='submit' value='Test form' />
-</form>
+<!-- Contact Section -->
+<section id="contact" class="page-single">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Contato</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <form  action="//formspree.io/maiconsilva.pinto@gmail.com" method="POST" name="sentMessage" id="contactForm" novalidate>
+                    <input type="hidden" name="_next" value="//maiconpinto.github.io/obrigado/" />
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>Nome</label>
+                            <input type="text" name="name" class="form-control" placeholder="Nome" id="name" required data-validation-required-message="Campo obrigatório.">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>E-mail</label>
+                            <input type="email" name="_replyto" class="form-control" placeholder="E-mail" id="email" required data-validation-required-message="Campo obrigatório.">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div>
+                        <input type="hidden"  name="_subject" value="New submission!">
+                        <input type="text" name="_gotcha" style="display:none" />
+                    </div>
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>Mensagem</label>
+                            <textarea rows="5" name="message" class="form-control" placeholder="Mensagem" id="message" required data-validation-required-message="Campo obrigatório."></textarea>
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <br>
+                    <div id="success"></div>
+                    <div class="row">
+                        <div class="form-group col-xs-12">
+                            <button type="submit" class="btn btn-success btn-lg">Enviar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
