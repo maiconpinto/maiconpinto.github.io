@@ -1,20 +1,7 @@
 ---
-layout: single-wo-header
-title: Sobre
-permalink: /sobre/
+layout: page
+title: About
+permalink: /about/
 ---
-<section id="sobre" class="page-single">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>Sobre</h2>
-                <hr class="star-primary">
-            </div>
-        </div>
-        <div class="row">
-            Meu nome é Maicon Silva Pinto, 27 anos, casado, pai de duas meninas. Programador PHP, trabalho desenvolvendo sites e sistemas para web.
-            Conhecimento e experiência utilizando framework CakePHP, além de temas para Wordpress.
-            Utilizo Ubuntu, SublimeText, Firefox, MySQL ou Postgres, Gimp, Inkscape, Github e Bitbucket, entre outros softwares e sites para trabalhar.
-        </div>
-    </div>
-</section>
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit placeat molestiae aut necessitatibus animi consequuntur veniam temporibus neque nemo explicabo asperiores repellendus, reiciendis hic rerum perferendis doloremque ex commodi vitae delectus recusandae perspiciatis? Quisquam voluptas doloremque, doloribus quo neque voluptatem quas amet voluptate, blanditiis vel itaque magnam enim aliquam dolor, soluta ducimus nemo aspernatur placeat earum debitis possimus ad? Natus quos eveniet, cupiditate eligendi sapiente nemo illum, error adipisci eos labore a cumque sequi similique odit ducimus, itaque porro, in voluptate voluptatem sint. Necessitatibus praesentium hic iste numquam unde consequatur sed natus, soluta nesciunt odit, quisquam error, quaerat doloribus illum?

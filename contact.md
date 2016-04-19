@@ -1,55 +1,9 @@
 ---
-layout: single-wo-header
-title: Contato
-permalink: /contato/
+layout: page
+title: Contact
+permalink: /contact/
 ---
-<!-- Contact Section -->
-<section id="contact" class="page-single">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>Contato</h2>
-                <hr class="star-primary">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <form  action="//formspree.io/maiconsilva.pinto@gmail.com" method="POST" name="sentMessage" id="contactForm" novalidate>
-                    <input type="hidden" name="_next" value="//maiconpinto.github.io/obrigado/" />
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Nome</label>
-                            <input type="text" name="name" class="form-control" placeholder="Nome" id="name" required data-validation-required-message="Campo obrigatório.">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>E-mail</label>
-                            <input type="email" name="_replyto" class="form-control" placeholder="E-mail" id="email" required data-validation-required-message="Campo obrigatório.">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div>
-                        <input type="hidden"  name="_subject" value="New submission!">
-                        <input type="text" name="_gotcha" style="display:none" />
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Mensagem</label>
-                            <textarea rows="5" name="message" class="form-control" placeholder="Mensagem" id="message" required data-validation-required-message="Campo obrigatório."></textarea>
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <br>
-                    <div id="success"></div>
-                    <div class="row">
-                        <div class="form-group col-xs-12">
-                            <button type="submit" class="btn btn-success btn-lg">Enviar</button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section>
+
+![Gato negro atendendo um telefone](http://wdy.h-cdn.co/assets/cm/15/08/54ea956d1dff3_-_10-cat-with-phone-2.jpg)
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic sequi illum natus nisi numquam quam possimus molestias dolores repudiandae minima quibusdam reprehenderit, ea optio perspiciatis voluptatem. Sequi libero id fugit, provident minus nulla, unde quos. Autem soluta labore neque dolorum, officiis, voluptatem at tempore quidem fugit maiores iste, totam non, nisi voluptatum itaque commodi laudantium. Laboriosam, est quos laborum eaque sed unde velit, nemo praesentium nulla sunt. Consequuntur maxime accusantium eius alias, accusamus expedita quidem eveniet et autem minus laborum cupiditate amet, tempore mollitia ut praesentium eum iste. Quis, velit quaerat consequuntur obcaecati inventore sapiente voluptate voluptatem accusantium aspernatur culpa delectus ea commodi eveniet illum iusto voluptatibus laborum consequatur excepturi doloribus natus repellat maxime dolore hic corporis quibusdam! Omnis nesciunt odit nostrum aspernatur, enim rerum, harum dolor dolorum veritatis, praesentium quae inventore accusantium totam temporibus iusto numquam ipsa doloremque eum tempore, soluta magni! Earum aut aliquid debitis illum ut a accusamus sint perspiciatis reiciendis quo harum ipsum, nam asperiores repellendus, quibusdam perferendis delectus voluptatem laboriosam! Aperiam fugit, aut voluptatibus esse culpa! Iusto unde assumenda laboriosam amet fugiat tempora dignissimos beatae, ipsam atque, qui natus aliquid voluptatem asperiores nobis nesciunt repudiandae enim animi! Doloremque necessitatibus ducimus cumque dolorum quae possimus dolores.
