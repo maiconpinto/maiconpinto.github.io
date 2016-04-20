@@ -9,7 +9,7 @@
 title: Minimal
 email: blog@minimal.com
 description: "Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll."
-baseurl: "/"
+baseurl: ""
 url: "http://willianjusten.com.br"
 twitter_username: minimal_twitter
 github_username:  minimal_github
