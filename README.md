@@ -1,0 +1,3 @@
+# Jekyll installation
+
+## Clean installation
