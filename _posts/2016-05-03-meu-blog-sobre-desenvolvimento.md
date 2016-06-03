@@ -5,9 +5,6 @@ date:   2016-06-03 00:47:00 -0300
 categories: blog
 ---
 
-# Meu blog sobre desenvolvimento
-
-
 ## about.me
 
 Meu nome é Maicon Silva Pinto, 27 anos, casado, pai de duas meninas. Desenvolvedor Web, trabalho com sites e sistemas para web.
