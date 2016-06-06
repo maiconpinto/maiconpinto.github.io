@@ -3,6 +3,7 @@ layout: post
 title:  "Meu blog sobre desenvolvimento!"
 date:   2016-06-03 00:47:00 -0300
 categories: blog
+resume: O maiconpinto.github.io é meu blog pessoal como desenvolvedor web. Tudo sobre desenvolvimento web e programação. Principalmente sobre Linux, Servidores, Banco de dados, e Linguagens de Programação.
 ---
 
 ## about.me

@@ -2,19 +2,25 @@
 layout: default
 ---
 
-<div class="content list">
-  {% if site.posts.size == 0 %}
+<div class="row">
+    {% if site.posts.size == 0 %}
     <h2>No post found</h2>
-  {% else %}
-    {% for post in site.posts %}
-      <div class="list-item">
-        <h2 class="list-post-title">
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h2>
-        <div class="list-post-date">
-          <time>{{ post.date | date_to_string }}</time>
+    {% else %}
+        {% for post in site.posts %}
+        <div class="col s12">
+            <div class="card red lighten-1">
+                <div class="card-content white-text">
+                    <span class="badge date">{{ post.date | date_to_string }}</span>
+                    <span class="card-title"><a href="{{ site.baseurl }}{{ post.url }}" class="title">{{ post.title }}</a></span>
+                    <p>
+                        {{ post.resume }}
+                    </p>
+                </div>
+                <div class="card-action">
+                <a href="{{ site.baseurl }}{{ post.url }}">Ler...</a>
+                </div>
+            </div>
         </div>
-      </div>
-    {% endfor %}
-  {% endif %}
+        {% endfor %}
+    {% endif %}
 </div>

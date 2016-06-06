@@ -1,12 +1,14 @@
-<header class="masthead">
-  <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.title }}<span>&#39;s blog</span></a>
-  </h1>
-  <nav class="masthead-nav">
-    {% for page in site.pages %}
-      {% if  page.title %}
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      {% endif %}
-    {% endfor %}
-  </nav>
+<header>
+    <nav>
+        <div class="nav-wrapper">
+            <a href="{{ site.baseurl }}/" class="brand-logo">{{ site.title }}</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                {% for page in site.pages %}
+                {% if  page.title %}
+                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </nav>
 </header>
