@@ -16,6 +16,7 @@ resume: Meus Plugins para o SublimeText 3
 
 ## Sugestões
 
+- [GitGutter](https://github.com/jisaacks/GitGutter)
 - [Alignment](https://packagecontrol.io/packages/Alignment)
 - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete)
 - [SFTP](https://packagecontrol.io/packages/SFTP)
