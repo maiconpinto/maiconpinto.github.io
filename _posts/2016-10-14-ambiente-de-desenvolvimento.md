@@ -3,7 +3,7 @@ layout: post
 title:  "Meu Ambiente de desenvolvimento!"
 date:   2016-10-14 22:07:00 -0300
 categories: blog
-resume: 
+resume: Recentemente tive que formatar meu notebook, e acabei procurando por um tutorial fácil e simples para configurar meu ambiente de desenvolvimento, de novo. 
 ---
 
 ## Meu Ambiente de Desenvolvimento
