@@ -95,25 +95,7 @@ Dentro do diretório **/etc/nginx** existem duas pastas que interessam: **sites-
 
 Digite a seguinte configuração: 
 
-> server {
-> 
-> 	listen 80;
-> 
-> 	server_name teste.app;
-> 
-> 	root /var/www/teste.app;
-> 	index index.html index.php;
-> 
-> 	location / {
->		try_files $uri $uri/ =404;
-> 	}
-> 
-> 	location ~ \.php$ {
->		include snippets/fastcgi-php.conf;
->		fastcgi_pass unix:/run/php/php7.0-fpm.sock;
->	}
-> 
->}
+{% gist 135c2eb943bb0a2eaf1922425fc44302 %}
 
 Esta configuração não é exatamente a que está no vídeo, mas serve para exemplo. Eu não quero seguir como no vídeo, e criar links simbólicos apontando para "FODER_HERE". 
 
