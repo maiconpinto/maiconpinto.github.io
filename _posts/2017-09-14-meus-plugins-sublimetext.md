@@ -18,6 +18,14 @@ https://packagecontrol.io/installation
 
 https://packagecontrol.io/packages/SideBarEnhancements
 
+### Git
+
+https://packagecontrol.io/packages/Git
+
+### GitGutter
+
+https://packagecontrol.io/packages/GitGutter
+
 ### SublimeLinter
 
 https://packagecontrol.io/packages/SublimeLinter
@@ -25,3 +33,8 @@ https://packagecontrol.io/packages/SublimeLinter
 ### SublimeLinter PHP
 
 https://packagecontrol.io/packages/SublimeLinter-php
+
+### PHP Companion
+
+https://packagecontrol.io/packages/PHP%20Companion
+
