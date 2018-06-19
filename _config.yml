@@ -26,8 +26,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-prettydocs
-#remote_theme: jekyll-theme-prettydocs
+#theme: jekyll-theme-prettydocs
+remote_theme: jekyll-theme-prettydocs
 plugins:
   - jekyll-feed
   - jekyll-gist
