@@ -16,4 +16,5 @@ github_username:  maiconpinto
 
 # Build settings
 markdown: kramdown
+remote_theme: maiconpinto/jekyll-theme-prettydocs
 permalink: /:title/
